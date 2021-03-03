@@ -96,4 +96,12 @@ class Contact < ApplicationRecord
     #    "#{self.first_name} {self.last_name}"
     #   end
     # end
+
+    M V C 
+    Models , define tables, contrainst, assoc., db, model, logic 
+    Views - React, What the user see and interacts 
+    ReactJS
+    Controllers - actions, traffic directors
+      routes - url pattern, http verb 
+    Fat models, skinny controller
 end
